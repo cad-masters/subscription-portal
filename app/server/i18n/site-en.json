@@ -1,0 +1,84 @@
+{
+    "dashboard": {
+        "WELCOME": "Welcome to Angle!"
+    },
+    "sidebar": {
+        "WELCOME": "Welcome",
+        "heading": {
+            "HEADER": "Welcome",
+            "COMPONENTS": "Resources",
+            "MORE": "User Management"
+        },
+        "nav": {
+            "DASHBOARD": "Dashboard",
+            "WIDGETS": "Widgets",
+            "element": {
+                "ELEMENTS": "Elements",
+                "BUTTON": "AutoCAD",
+                "COLOR": "Colors",
+                "NOTIFICATION": "Civil 3D",
+                "CAROUSEL": "Carousel",
+                "SPINNER": "Spinner",
+                "ANIMATION": "Animation",
+                "DROPDOWN": "Dropdown",
+                "CARDS": "Cards",
+                "PORTLET": "Portlet",
+                "GRID": "Grid",
+                "GRID_MASONRY": "Grid Masonry",
+                "TYPO": "Typography",
+                "FONT_ICON": "Font Icons",
+                "WEATHER_ICON": "Weather Icons"
+            },
+            "cmi": {
+            "CMI": "Dashboard",
+            "books": {
+                "AUTOCAD": "AutoCAD",
+                "CIVIL": "Civil 3D",
+                "REVIT": "Revit Family",
+                "ARCH": "Architecture & MEP"
+            }
+            },
+            "form": {
+                "FORM": "Software",
+                "STANDARD": "Standard",
+                "EXTENDED": "Extended",
+                "VALIDATION": "Validation"
+            },
+            "chart": {
+                "CHART": "Standards & Templates",
+                "FLOT": "Flot",
+                "RADIAL": "Radial"
+            },
+            "table": {
+                "TABLE": "Other Resources",
+                "STANDARD": "Standard",
+                "EXTENDED": "Extended",
+                "DATATABLE": "Datatable"
+            },
+            "map": {
+                "MAP": "Maps",
+                "GOOGLE": "Google Map",
+                "VECTOR": "Vector Map"
+            },
+            "extra": {
+                "EXTRA": "Invoices - Coming Soon",
+                "MAILBOX": "Mailbox",
+                "TIMELINE": "Timeline",
+                "CALENDAR": "Calendar",
+                "INVOICE": "Invoice",
+                "SEARCH": "Search",
+                "TODO": "Todo List",
+                "PROFILE": "Profile"
+            },
+            "pages": {
+                "PAGES": "Settings",
+                "LOGIN": "Login",
+                "REGISTER": "Register",
+                "RECOVER": "Recover password",
+                "PROFILE": "Profile",
+                "LOCK": "Lock",
+                "STARTER": "Starter Template"
+            }
+        }
+    }
+}
